@@ -383,7 +383,7 @@ function Hero() {
                 <br />
                 <span className="accent-text-animated">with code</span>
                 <br />
-                <span className="hero-text">and desgin.</span>
+                <span className="hero-text">and design.</span>
               </h1>
             </Reveal>
 
@@ -416,7 +416,7 @@ function Hero() {
             <Reveal delay={0.4}>
               <div className="mt-16 grid max-w-xl grid-cols-3 gap-6 border-t border-white/8 pt-7 text-sm">
                 {[
-                  ["3+", "Internship Experiences"],
+                  ["1", "Internship Experiences"],
                   ["4+", "projects"],
                   ["∞", "Curiosity"],
                 ].map(([k, v]) => (
